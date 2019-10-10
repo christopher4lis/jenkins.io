@@ -345,7 +345,8 @@ img.desaturate {
   margin-bottom: 1.75rem;
 }
 
-.media-row>.media, .step-by-step>.container.step {
+.media-row>.media, .step-by-step>.container.ste
+
   vertical-align: top;
   cursor: pointer;
   font-size:.9rem;
@@ -1187,7 +1188,8 @@ z.f9f9f9.section .ji-blog-list>.post>.body>.teaser:after, .ji-dated-list>.post>.
 /*----plugin site----*/
 body {
   font-family: 'lato', Roboto, 'Open Sans', sans-serif;
-  font-size: 14px;
+  font-size: 1rem;
+  color: #4a5568;
   line-height: 1.5;
   margin: 0;
   background-color: #fff;
